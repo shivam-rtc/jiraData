@@ -1,0 +1,23 @@
+{
+  "name": "cenlar",
+  "version": "1.0.0",
+  "main": "practice.js",
+  "scripts": {
+    "start": "node practice.js",
+    "dev": "nodemon practice.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jira-client": "^8.2.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.2",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
